@@ -20,3 +20,13 @@ Download the code to your device. <br/> Open the terminal and run the following 
   g++ bank.cpp
   ./a.exe
 ```
+## Is the loaning system that you implemented centralized or decentralized? Point out the demerit(s) of a centralized system.
+The loaning system I implemented is centralised as all transactions are managed by the bank and acts as a middleman.
+<br/><br/>
+### The following are the demerit(s) of a centralised system:
+* Privacy breaches and scams by central authority
+* Arbitrariness and Unfairness by central authority
+* No control/true ownership over the assets by the end user
+* System dependent and non-interoperable
+* Cost heavy and inefficent
+* Non-automate-able
