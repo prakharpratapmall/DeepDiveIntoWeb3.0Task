@@ -6,7 +6,7 @@ string = input("Enter a String :")
 start = time.time()
 i = 0
 string1 = ""
-while i < 9999999:
+while True:
     string1 = string + str(i)
     encoded = string1.encode()
     result = (hashlib.sha256(encoded)).hexdigest()
